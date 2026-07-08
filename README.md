@@ -1,0 +1,2 @@
+# Intelligent-Monitoring-Device-for-Alzheimer-s-Disease-Patients-Based-on-RK3588
+本项目为基于RK3588的阿尔茨海默症患者智能监护设备，系统由RK3588监护主机与ESP32胸牌移动端协同构成。RK3588端部署RetinaFace、MediaPipe、MobileFaceNet轻量化AI模型，实现人脸信息录入、人脸检测识别、目标追踪、人脸人数统计，画面内人数超两人自动切换节能模式；同时具备跌倒检测、久坐监测、离家外出识别功能，发生跌倒时留存前后录像并推送报警消息，支持网页端实时查看监控画面。配套ESP32胸牌移动端可实现外出定位、患者一键手动呼救，全方位保障老年痴呆患者居家及外出安全。
